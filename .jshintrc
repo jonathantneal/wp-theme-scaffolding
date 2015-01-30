@@ -1,0 +1,20 @@
+{
+	"boss":     true,
+	"browser":  true,
+	"curly":    true,
+	"eqeqeq":   true,
+	"eqnull":   true,
+	"globals": {
+		"exports": true,
+		"module":  false,
+		"require": true
+	},
+	"immed":    true,
+	"jquery":   true,
+	"latedef":  true,
+	"newcap":   true,
+	"noarg":    true,
+	"quotmark": true,
+	"sub":      true,
+	"undef":    true
+}
